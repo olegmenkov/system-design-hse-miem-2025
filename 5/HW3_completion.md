@@ -1,5 +1,6 @@
 # Архитектура хранения данных: "Кто твой предок?"
 [ДЗ_1 с ФТ и НФТ](https://github.com/nikolaysavelev/system-design-hse-miem-2025/pull/6/files?short_path=c2b1b13#diff-c2b1b137c8b6980993e87a6c87d68e80f5d9287d3828b50d33049d9581a3d7fc)
+
 [ДЗ_2 с сервисами](https://github.com/nikolaysavelev/system-design-hse-miem-2025/pull/15/files?short_path=296604c#diff-296604cd18c064534012a6528e0a93b49ffa6ec41ac137e35ed853adc05e6942)
 
 ## 1. Выбор баз данных по сценариям
